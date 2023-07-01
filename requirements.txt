@@ -18,3 +18,5 @@ tqdm
 google_trans_new
 pycocoevalcap
 transformers
+einops
+
