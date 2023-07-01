@@ -1,7 +1,9 @@
-# Reproducing Vid2Seq, it is built on top of the codebase from "Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos". Major changes are done in vid2seq.py, train.py, video_dataset.py, eval_utils.py
-
+# Reproducing Vid2Seq
 
 ## Getting Started
+
+### This code is built on top of the codebase from "Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos". Major changes are done in vid2seq.py, train.py, video_dataset.py, eval_utils.py
+
 ### Prepare Environment
 ```bash
 git clone --recursive https://github.com/zeeshank95/DenseCAP.git
